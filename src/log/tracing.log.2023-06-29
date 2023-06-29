@@ -1,0 +1,210 @@
+2023-06-29 > 10:06:26.179  INFO main imgShow3: Text accepted!
+2023-06-29 > 10:06:26.179  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 10:06:26.180  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 10:06:26.180  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 10:06:26.180  INFO main imgShow3: The current dir is : 20230629白班
+
+2023-06-29 > 10:06:26.180  INFO main imgShow3: The ng path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 10:06:26.181  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 10:06:26.181 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 10:06:26.181  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:06:26.222 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:06:26.543 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 10:06:26.543  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 10:06:26.543 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 10:06:26.543  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:06:26.738 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:06:28.286 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 10:06:28.286  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 10:06:28.286 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 10:06:28.286  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:06:28.328 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:06:28.660 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 10:06:28.660  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 10:06:28.660 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 10:06:28.660  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:06:28.687 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:06:28.871 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 10:06:28.872  INFO main imgShow3: app confirm finished.
+2023-06-29 > 10:07:51.062  INFO main imgShow3: Text accepted!
+2023-06-29 > 10:07:51.062  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 10:07:51.062  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 10:07:51.062  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 10:07:51.062  INFO main imgShow3: The current dir is : 20230629白班
+
+2023-06-29 > 10:07:51.062  INFO main imgShow3: The ng path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 10:07:51.063  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 10:07:51.063 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 10:07:51.063  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:07:51.107 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:07:51.429 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 10:07:51.429  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 10:07:51.429 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 10:07:51.429  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:07:51.621 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:07:53.268 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 10:07:53.269  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 10:07:53.269 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 10:07:53.269  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:07:53.311 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:07:53.662 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 10:07:53.662  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 10:07:53.662 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 10:07:53.662  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:07:53.687 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:07:53.881 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 10:07:53.881  INFO main imgShow3: app confirm finished.
+2023-06-29 > 10:08:22.701  INFO main imgShow3: Text accepted!
+2023-06-29 > 10:08:22.701  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 10:08:22.701  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 10:08:22.702  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 10:08:22.702  INFO main imgShow3: The current dir is : 20230629白班
+
+2023-06-29 > 10:08:22.702  INFO main imgShow3: The ng path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 10:08:22.702  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 10:08:22.702 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 10:08:22.702  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:08:22.747 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:08:23.086 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 10:08:23.086  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 10:08:23.086 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 10:08:23.086  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:08:23.276 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:08:25.024 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 10:08:25.025  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 10:08:25.025 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 10:08:25.025  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:08:25.066 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:08:25.415 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 10:08:25.415  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 10:08:25.415 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 10:08:25.415  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:08:25.439 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:08:25.631 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 10:08:25.631  INFO main imgShow3: app confirm finished.
+2023-06-29 > 10:22:13.962  INFO main imgShow3: Text accepted!
+2023-06-29 > 10:22:13.963  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 10:22:13.963  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 10:22:13.963  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 10:22:13.963  INFO main imgShow3: The current dir is : 20230629白班
+
+2023-06-29 > 10:22:13.963  INFO main imgShow3: The ng path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 10:22:13.964  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 10:22:13.964 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 10:22:13.964  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:22:14.009 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:22:14.346 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 10:22:14.346  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 10:22:14.346 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 10:22:14.346  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:22:14.555 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:22:16.276 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 10:22:16.276  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 10:22:16.276 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 10:22:16.276  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:22:16.321 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:22:16.649 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 10:22:16.649  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 10:22:16.649 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 10:22:16.649  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:22:16.673 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:22:16.856 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 10:22:16.857  INFO main imgShow3: app confirm finished.
+2023-06-29 > 10:23:53.571  INFO main imgShow3: Text accepted!
+2023-06-29 > 10:23:53.571  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 10:23:53.571  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 10:23:53.572  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 10:23:53.572  INFO main imgShow3: The current dir is : 20230629白班
+
+2023-06-29 > 10:23:53.572  INFO main imgShow3: The ng path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 10:23:53.572  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 10:23:53.572 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 10:23:53.572  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:23:53.620 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:23:53.957 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 10:23:53.957  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 10:23:53.957 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 10:23:53.957  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:23:54.150 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:23:56.005 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 10:23:56.005  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 10:23:56.005 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 10:23:56.005  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:23:56.053 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:23:56.389 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 10:23:56.389  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 10:23:56.389 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 10:23:56.389  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:23:56.413 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:23:56.599 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 10:23:56.599  INFO main imgShow3: app confirm finished.
+2023-06-29 > 10:25:11.935  INFO main imgShow3: Text accepted!
+2023-06-29 > 10:25:11.935  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 10:25:11.935  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 10:25:11.936  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 10:25:11.936  INFO main imgShow3: The current dir is : 20230629白班
+
+2023-06-29 > 10:25:11.936  INFO main imgShow3: The ng path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 10:25:11.936  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 10:25:11.936 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 10:25:11.936  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:25:11.976 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:25:12.301 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 10:25:12.301  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 10:25:12.301 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 10:25:12.301  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:25:12.507 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:25:14.297 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 10:25:14.297  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 10:25:14.297 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 10:25:14.297  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:25:14.338 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:25:14.678 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 10:25:14.678  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 10:25:14.678 DEBUG main imgShow3: The src path is D:\Photo\20230629白班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 10:25:14.678  INFO main imgShow3: Start Read images.
+2023-06-29 > 10:25:14.702 DEBUG main imgShow3: Read image success.
+2023-06-29 > 10:25:14.887 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 10:25:14.887  INFO main imgShow3: app confirm finished.
+2023-06-29 > 20:50:53.228  INFO main imgShow3: Text accepted!
+2023-06-29 > 20:50:53.228  INFO main imgShow3: The QR code is 09UCB25V000002C9F3026810
+2023-06-29 > 20:50:53.228  INFO main imgShow3: The config content is : [img]
+path = "D:\\Photo"
+
+2023-06-29 > 20:50:53.229  INFO main imgShow3: The path is : D:\Photo
+2023-06-29 > 20:50:53.229  INFO main imgShow3: The current dir is : 20230629夜班
+
+2023-06-29 > 20:50:53.229  INFO main imgShow3: The ng path is D:\Photo\20230629夜班\09UCB25V000002C9F3026810\ResultImage
+2023-06-29 > 20:50:53.229  INFO main imgShow3: There is at least 1 NG files.
+2023-06-29 > 20:50:53.229 DEBUG main imgShow3: The src path is D:\Photo\20230629夜班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112611963.jpg
+2023-06-29 > 20:50:53.229  INFO main imgShow3: Start Read images.
+2023-06-29 > 20:50:53.270 DEBUG main imgShow3: Read image success.
+2023-06-29 > 20:50:53.607 DEBUG main imgShow3: The img1 has been set.
+2023-06-29 > 20:50:53.607  INFO main imgShow3: There is at least 2 NG files.
+2023-06-29 > 20:50:53.607 DEBUG main imgShow3: The src path is D:\Photo\20230629夜班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112732337.jpg
+2023-06-29 > 20:50:53.607  INFO main imgShow3: Start Read images.
+2023-06-29 > 20:50:53.804 DEBUG main imgShow3: Read image success.
+2023-06-29 > 20:50:55.477 DEBUG main imgShow3: The img2 has been set.
+2023-06-29 > 20:50:55.477  INFO main imgShow3: There is at least 3 NG files.
+2023-06-29 > 20:50:55.477 DEBUG main imgShow3: The src path is D:\Photo\20230629夜班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112737720.jpg
+2023-06-29 > 20:50:55.477  INFO main imgShow3: Start Read images.
+2023-06-29 > 20:50:55.521 DEBUG main imgShow3: Read image success.
+2023-06-29 > 20:50:55.869 DEBUG main imgShow3: The img3 has been set.
+2023-06-29 > 20:50:55.869  INFO main imgShow3: There is at least 4 NG files.
+2023-06-29 > 20:50:55.869 DEBUG main imgShow3: The src path is D:\Photo\20230629夜班\09UCB25V000002C9F3026810\ResultImage\_09UCB25V000002C9F3026810_NG_20230510112738532.jpg
+2023-06-29 > 20:50:55.869  INFO main imgShow3: Start Read images.
+2023-06-29 > 20:50:55.895 DEBUG main imgShow3: Read image success.
+2023-06-29 > 20:50:56.090 DEBUG main imgShow3: The img4 has been set.
+2023-06-29 > 20:50:56.090  INFO main imgShow3: app confirm finished.
